@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:opq-osc/lua-lib.git
